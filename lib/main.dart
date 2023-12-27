@@ -1,8 +1,7 @@
 import 'package:e_commerce_app/ui/auth/login/login-screen.dart';
 import 'package:e_commerce_app/ui/auth/register/register-screen.dart';
-import 'package:e_commerce_app/ui/splash-screen.dart';
+import 'package:e_commerce_app/ui/splash/splash-screen.dart';
 import 'package:e_commerce_app/utils/app-theme.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 

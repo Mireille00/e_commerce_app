@@ -1,9 +1,8 @@
 import 'dart:async';
 
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'auth/login/login-screen.dart';
+import '../auth/login/login-screen.dart';
 
 class SplashScreen extends StatelessWidget {
   static const String routeName = 'splash-screen';
